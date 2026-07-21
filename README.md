@@ -44,7 +44,7 @@ Proceed at your own risk.
 ```javascript
 const alisha = {
   title: "Full Stack Developer",
-  degree: "B.Tech ECE",
+  degree: "B.Tech ECE Minor in Data Analytics and Machine Learning",
   currentMission: [
     "Building Full Stack Applications",
     "Learning AI & Machine Learning",
